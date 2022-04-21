@@ -1,0 +1,21 @@
+<svg id="Component_12_1" data-name="Component 12 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.756" y1="0.5" x2="0.911" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d4c80"/>
+      <stop offset="1" stop-color="#2347bf"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_11_1" data-name="Component 11 – 1">
+    <path id="Path_5907" data-name="Path 5907" d="M0,22.5Z" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_860" data-name="Ellipse 860" cx="22.5" cy="22.5" r="22.5" fill="#1a43a1"/>
+  </g>
+  <g id="Group_50702" data-name="Group 50702" transform="translate(-511.668 -467.844)">
+    <path id="パス_5639" data-name="パス 5639" d="M545.972,494.311H524.963V483.844h21.009Z" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="パス_5639-2" data-name="パス 5639" d="M543.555,494.311v2.238H522.668V486.143h2.295" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Path_5940" data-name="Path 5940" d="M537.469,485.784l-2.017,3.613-2.017-3.613" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_1273" data-name="Line 1273" y2="2.829" transform="translate(535.493 489.637)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_1274" data-name="Line 1274" x2="4.128" transform="translate(533.389 489.637)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_1275" data-name="Line 1275" x2="1.136" transform="translate(536.381 488.016)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_1276" data-name="Line 1276" x2="1.258" transform="translate(533.389 488.016)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
